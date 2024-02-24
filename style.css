@@ -1,0 +1,32 @@
+#header {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.next {
+    color: aquamarine;
+    font-size: 22px;
+}
+
+.sectionOne {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.sectionSecond {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 22px;
+    ;
+}
